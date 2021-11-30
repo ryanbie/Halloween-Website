@@ -241,3 +241,20 @@ button{
   height: 250px;
   justify-self: center;
 }
+
+/*============ BUTTON ===========*/
+
+.button--ghost {
+  border: 2px solid;
+  background-color: transparent;
+  border-radius: 3rem;
+  padding: .75rem 1.5rem;
+}
+
+.button--ghost:hover {
+  background-color: #9370db;
+}
+
+.button--ghost:active {
+  color: white;
+}
