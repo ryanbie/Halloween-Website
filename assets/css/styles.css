@@ -270,7 +270,8 @@ button{
 }
 
 .category__img{
-  width: 120px;
+  width: 110px;
+  height: 100px;
   margin-bottom: var(--mb-0-75);
   transition: .3s;
 }
